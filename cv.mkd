@@ -1,19 +1,78 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
-
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
+Área de Infraestrutura 
 
 CV
 ==
 
 [Preencha aqui o seu cv]
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+João Fernando Eiras Mortani Alexandre
+Brasileiro, solteiro, 25 anos
+Av. Prof. Manoel de Abreu,Maracanã Rio de Janeiro
+Telefone: (21) 96553-1877 E-mail: jotamineiro@gmail.com
+
+
+SOBRE:
+	Jovem de 25 anos, estudante de redes de computadores na Universidade Estácio de Sá no Rio de Janeiro.Tenho experiencia como Desenvolvedor web com as seguintes linguagens PHP, Python/Django, HTML/CSS, JavaScript, Jquery. Atualmente trabalho na área de suporte há servidores (sysadmin), a virtualização de servidores em geral. Trabalho também com suporte ao usuário help-desk, local e remoto, trabalho com implementação de estruturas de redes, implementação e manutenção de servidores na nuvem ( cloud service VmWare) e experiencia em infraestrutara da rede.
+ 
+ 
+FORMAÇÃO:
+	• 2014.1 – 3o período do curso de Redes de Computadores na Universidade Estacio de Sa - Cursando Conclusão 2015.1.
+	• 2012.1 – 5o período do curso de Engenharia da Computação na Universidade Católica de Petrópolis em Petrópolis, RJ – Incompleto
+	
+EXPERIÊNCIA PROFISSIONA:
+	• 2014 - Xeriph Hospedagem de dados, Rio de Janeiro, RJ, Cargo: Analista de Suporte e Infra estrutura.
+		Responsavel pela infraestrutura da Xeriph e o suporte para os cliente, realizo atividades de monitoramento 			dos servidores e de proteção contra invasão, além de desenvolvimento e automação das rotinas ( php, 			python ), segue algumas atividades:
+			* Desenvolvimento PHP
+			* Gerencia do controle de versão GIT
+			* Configuração e implementação de novos servidores
+			* Gerencia do Banco de dados MySQL
+			* Segunça da informação
+			* Monitoramento da rede interna e externa
+			* Help-desk;
+
+	• 2013 - Aeon Technologies - Niteroi, RJ, Cargo: Analista de Suporte Linux.
+		Analista de suporte local e remoto, atuando também como consultor e analista de infraestrutura e redes. 			Atendimento ao cliente final e a consultoria e implementação de novos clientes. Segue algumas 				atividades:
+			* VmWare Zimbra Mail
+			* VmWare Esxi ( virtualização de servidores )
+			* Proxy Squid
+			* Firewall Iptables
+			* Samba
+			* Windows Active Directory
+			* Servidores Windows server 2012/2008
+			* Configuração de DHCP
+			* Configuração de DNS
+			* TCP/IP
+			* Protocolos de rede
+			* Webservices Nginx / Apache
+			* Banco de Dados MySQL
+			* OpenVPN
+ 			* Gerenciamento de servidor de e-mail com postfix;
+
+	• 2012 – Orama DTVM Fundos de Investimento – Rio de Janeiro, RJ Cargo: Desenvolvedor Web.
+		Deselvolvimento e manutenção da aplicação da Orama com Python/Django, JavaScript JQuery.
+	• 2011 – Singular Digital – Duque de Caxias, RJ Cargo: Estagiário.
+		Estagiário da área de TI responsável por suporte aos servidores Linux, ao pxory (squid) e o firewall 			(iptabless), Gerenciamento da Loja online e suporte de templates do Magento, Implementações de novos 			projetos, Suporte ao banco de dados Mysql, implementação de layouts utilizando tecnologias (x)html/css, 			javascript ( jquery ).
+	• 2011 – Agristar do Brasil LTDA – Petropolis, RJ Cargo: Tecnico em Informatica.
+		Manutenção e suporte dos servidores Linux e Windows Server com Active Directory, Serviço de suporte e 			atendimente aos usuários helpdesk. Manutenção e suporte do Sistema ERP Senior Sapiens. 
+		
+
+CURSOS, SEMINÁRIOS, FEIRAS E CONGRESSO
+
+	• 2010 – Curso Welcome to the Django ministrado por Henrique Bastos.
+	• 2011 – Campus Party Brasil, São Paulo. 17/01/2011 à 23/01/2011
+		o Palestra – Grid e desenvolvimento Colaborativo, palestrante Gabriel A. Von Winckler.
+		o Palestra – Introdução ao Node.JS, palestrante Emerson Macedo Leite.
+		o Palestra – Desenvolvimento Android, palestrante Muhamad Salem Sugui.
+		o Palestra – Python Ágil, palestrante Ramiro Luz.
+		o Palestra – Steve Wozniak Co-fundador Apple.
+		
+Ingles: Tecnico
+
+Segue o link externo: http://www.linkedin.com/pub/jo%C3%A3o-fernando-mortani/37/b43/1b3
+
+
+Responsabilizo-me pela veracidade das informações acima prestadas subscrendo-me.
+Rio De Janeiro, 29 de Julho de 2014.
